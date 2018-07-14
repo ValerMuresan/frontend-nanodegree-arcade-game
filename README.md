@@ -1,6 +1,26 @@
-frontend-nanodegree-arcade-game
+# frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+## Table of contents
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+* [Description](#description)
+* [Run the game](#run the game)
+* [Play the game](#play the game)
+* [Test the game](#test the game)
+
+
+
+## Description
+
+The project is based on JavaScript object-oriented programming features and is inspired by Frogger Game.
+Frogger is a 1981 arcade game developed by Konami [see more](https://en.wikipedia.org/wiki/Frogger).
+
+## Run the game
+
+The game can be cloned or downloaded from [here](https://github.com/ValerMuresan/frontend-nanodegree-arcade-game.git).
+
+## Play the game
+
+User will use only 4 keys for playing the game respectively right, left, up and down arrows. The player is located on the grass by default and he for achieving points must to cross safely the land until the water. Every time when the player hit a bug, he will lose a live.
+
+## Test the [Frogger](https://valermuresan.github.io/frontend-nanodegree-arcade-game/).
